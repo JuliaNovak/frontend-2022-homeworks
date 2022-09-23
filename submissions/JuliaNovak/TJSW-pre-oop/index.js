@@ -38,7 +38,9 @@ const man = {
 
 const catWoman = Object.create(cat);
 catWoman.species = "catWoman";
-(catWoman.name = "Ro"), (catWoman.legs = 2), (catWoman.hands = 2);
+catWoman.name = "Ro";
+catWoman.legs = 2;
+catWoman.hands = 2;
 
 // ======== OUTPUT ========
 
